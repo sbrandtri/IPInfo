@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPInfo", "IPInfo\IPInfo.csproj", "{FE31E852-1A4D-4C08-8CE4-D949610414D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPInfoTests", "IPInfoTests\IPInfoTests.csproj", "{416EB9E7-3F80-4FEF-B115-B6DDFD8CEB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE31E852-1A4D-4C08-8CE4-D949610414D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE31E852-1A4D-4C08-8CE4-D949610414D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE31E852-1A4D-4C08-8CE4-D949610414D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE31E852-1A4D-4C08-8CE4-D949610414D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416EB9E7-3F80-4FEF-B115-B6DDFD8CEB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416EB9E7-3F80-4FEF-B115-B6DDFD8CEB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416EB9E7-3F80-4FEF-B115-B6DDFD8CEB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416EB9E7-3F80-4FEF-B115-B6DDFD8CEB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
